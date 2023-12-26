@@ -1,6 +1,6 @@
 export default function Home() {
 	return (
-		<body>
+		<main>
 			<section className='container'>
 				<div className='card'>
 					<img
@@ -14,6 +14,6 @@ export default function Home() {
 					</p>
 				</div>
 			</section>
-		</body>
+		</main>
 	)
 }
